@@ -20,10 +20,10 @@ I'm proficient in a variety of technologies and tools, including but not limited
 
 ## My Interests
 
-In addition to coding, I have a passion for [Hobbies/Interests]. When I'm not writing code, you can find me [Other Activities/Interests].
+In addition to coding, I have a passion for reading , travelling. When I'm not writing code, you can find me at instagram- @runalipokale.
 
 ## Let's Connect
 
-I'm always excited to connect with fellow developers, tech enthusiasts, and open-source contributors. Feel free to reach out to me through [LinkedIn]- https://www.linkedin.com/in/runali-pokale-465a3b210/. Let's collaborate and learn together!
+I'm always excited to connect with fellow developers, tech enthusiasts, and open-source contributors. Feel free to reach out to me through Linkedin - https://www.linkedin.com/in/runali-pokale-465a3b210/. Let's collaborate and learn together!
 
 Thank you for visiting my GitHub profile. Let's code, learn, and make a difference together! 🚀
