@@ -9,13 +9,13 @@ I'm a passionate web developer and tech enthusiast with a love for open-source p
 - 👯 I'm open to collaboration on open-source projects that align with my interests.
 - 💬 Ask me about web development, open-source, or anything tech-related!
 - 📫 You can reach me at pokalerunali52@gmail.com
-
+- checkout my potfolio : https://runalipokale.github.io/POTFOLIO_WEBSITE_2024/
 ## Tech Stack
 
 I'm proficient in a variety of technologies and tools, including but not limited to:
 
 - Frontend: HTML, CSS, JavaScript, Angular.Js
-- Backend: Node.js, Express
+- Backend: Node.js, Express 
 - Databases: MySQL
 
 ## My Interests
