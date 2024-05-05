@@ -4,7 +4,7 @@
 
 I'm a passionate web developer and tech enthusiast with a love for open-source projects. I'm deeply committed to contributing to the developer community, improving my skills, and building software that can make a positive impact. Welcome to my GitHub profile!
 
-- 🔭 I'm currently working on sideHub - A web application that connects local service provider to customer.
+- 🔭 I'm currently working on YourPrints - An Eommerce customized tshirt printing web application 
 - 🌱 I'm learning Node.js to broaden my skillset.
 - 👯 I'm open to collaboration on open-source projects that align with my interests.
 - 💬 Ask me about web development, open-source, or anything tech-related!
@@ -14,8 +14,8 @@ I'm a passionate web developer and tech enthusiast with a love for open-source p
 
 I'm proficient in a variety of technologies and tools, including but not limited to:
 
-- Frontend: HTML, CSS, JavaScript, Angular.Js
-- Backend: Node.js, Express 
+- Frontend: HTML, CSS, JavaScript, Angular.Js , Templating engine (ejs)
+- Backend: Node.js, Express , sequelize
 - Databases: MySQL
 
 ## My Interests
