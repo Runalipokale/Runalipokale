@@ -32,4 +32,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=runalipokale&" alt="runalipokale" /></p>
 <hr>
 
-<h1 align="center">Thank you for visiting my GitHub profile. Let's code, learn, and make a difference together! 🚀</h1>
+<h3 align="center">Thank you for visiting my GitHub profile. Let's code, learn, and make a difference together! 🚀</h3>
