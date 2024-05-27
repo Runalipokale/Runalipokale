@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pokalerunali52@gmail.com**
   
-- ⚡ My Interest In addition to coding, I have a passion for reading , travelling. When I'm not writing code, you can find me at instagram- @runalipokale.
+- ⚡ My Interests In addition to coding, I have a passion for reading , travelling. When I'm not writing code, you can find me at instagram- @runalipokale.
 
 
 <h3 align="left">Connect with me:</h3>
