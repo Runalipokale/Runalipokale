@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pokalerunali52@gmail.com**
   
--⚡ My Interest In addition to coding, I have a passion for reading , travelling. When I'm not writing code, you can find me at instagram- @runalipokale.
+- ⚡ My Interest In addition to coding, I have a passion for reading , travelling. When I'm not writing code, you can find me at instagram- @runalipokale.
 
 
 <h3 align="left">Connect with me:</h3>
@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=runalipokale&" alt="runalipokale" /></p>
 
-<p>Thank you for visiting my GitHub profile. Let's code, learn, and make a difference together! 🚀</p>
+<h1 align="center">Thank you for visiting my GitHub profile. Let's code, learn, and make a difference together! 🚀</h1>
