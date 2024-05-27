@@ -24,6 +24,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=runalipokale&show_icons=true&locale=en&layout=compact" alt="runalipokale" /></p>
 
+<p>My Interests
+In addition to coding, I have a passion for reading , travelling. When I'm not writing code, you can find me at instagram- @runalipokale.
+</p>
+
+<p>Thank you for visiting my GitHub profile. Let's code, learn, and make a difference together! 🚀</p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=runalipokale&show_icons=true&locale=en" alt="runalipokale" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=runalipokale&" alt="runalipokale" /></p>
