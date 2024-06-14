@@ -4,7 +4,7 @@ Runalipokale/README.md
 <p>I'm a passionate web developer and tech enthusiast with a love for open-source projects. I'm deeply committed to contributing to the developer community, improving my skills, and building software that can make a positive impact. Welcome to my GitHub profile!</p>
 
 <p>🔭 I'm currently working on YourPrints - An Eommerce customized tshirt printing web application</p>
-<p>🌱 I'm learning Node.js to broaden my skillset.</p>
+<p>🌱 I'm learning MongoDB to broaden my skillset.</p>
 <p>👯 I'm open to collaboration on open-source projects that align with my interests.</p>
 <p>💬 Ask me about web development, open-source, or anything tech-related!</p>
 <p>📫 You can reach me at pokalerunali52@gmail.com</p>
