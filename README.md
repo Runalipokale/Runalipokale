@@ -19,7 +19,7 @@ Runalipokale/README.md
 <p>Languages: Java , C , C++ , SQL</p>
   
 <h3>My Interests</h3>
-<p>In addition to coding, I have a passion for reading , travelling. When I'm not writing code, you can find me at instagram- @runalipokale.</p>
+<p>In addition to coding, I have a passion for reading , travelling. When I'm not writing code</p>
 
 <h3>Let's Connect</h3>
 <p>I'm always excited to connect with fellow developers, tech enthusiasts, and open-source contributors. Feel free to reach out to me through Linkedin - https://www.linkedin.com/in/runali-pokale-465a3b210/. Let's collaborate and learn together!</p>
